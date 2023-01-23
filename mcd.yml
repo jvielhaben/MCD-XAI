@@ -278,4 +278,3 @@ dependencies:
     - torch-tb-profiler==0.4.1
     - torchmetrics==0.8.2
     - zennit==0.4.6
-prefix: /home/vielhaben/anaconda3/envs/rce-env
