@@ -14,7 +14,7 @@ completeness relations
 
 
 
-![](./mcd_policenvan.png "MCD for the ImageNet police van class")
+![](./mcd_policevan.png "MCD for the ImageNet police van class")
 
 
 In particular, we provide a tutorial in form of a ready-to-run jupyter notebook, which applies different variants of *MCD* on the police van class of ImageNet: **mcd_tutorial.ipynb**
