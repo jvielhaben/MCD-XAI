@@ -15,7 +15,8 @@ completeness relations
 For a detailed description of technical details and experimental results, please refer to our TMLR paper:
 
 Johanna Vielhaben, Stefan Bluecher, Nils Strodthoff: [Multi-dimensional concept discovery (MCD): A unifying framework with completeness guarantees](https://openreview.net/forum?id=KxBQPz7HKh),
-    
+
+ ```   
 @article{
 vielhaben2023multidimensional,
 title={Multi-dimensional concept discovery ({MCD}): A unifying framework with completeness guarantees},
@@ -26,7 +27,7 @@ year={2023},
 url={https://openreview.net/forum?id=KxBQPz7HKh},
 note={}
 }
-    
+```
 
 ![](./mcd_policevan.png "MCD for the ImageNet police van class")
 
